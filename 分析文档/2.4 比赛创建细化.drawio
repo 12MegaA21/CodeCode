@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T04:03:16.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="cTbUtgftRY3R2IPLKCFf" version="17.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-23T07:57:11.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="u8m3ZeHLs9Cf6CLNfxhY" version="17.1.4" type="github">
   <diagram id="zhTXeEs8bKl2B7jrvykE" name="第 1 页">
-    <mxGraphModel dx="1298" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="903" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,6 +275,7 @@
             <mxPoint x="1600" y="1000" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1170" y="1000" />
+              <mxPoint x="1190" y="1000" />
               <mxPoint x="1590" y="1000" />
               <mxPoint x="1600" y="1000" />
             </Array>
@@ -350,6 +351,67 @@
           <mxGeometry x="-0.0978" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gqidpyO36s4PfGME45In-84" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="610" as="sourcePoint" />
+            <mxPoint x="720" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqidpyO36s4PfGME45In-87" value="比赛报名申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-84">
+          <mxGeometry x="0.1635" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqidpyO36s4PfGME45In-85" value="比赛报名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gqidpyO36s4PfGME45In-88" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gqidpyO36s4PfGME45In-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="240" as="sourcePoint" />
+            <mxPoint x="570" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="240" />
+              <mxPoint x="570" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqidpyO36s4PfGME45In-89" value="比赛信息（比赛序号，时间等）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-88">
+          <mxGeometry x="0.6593" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqidpyO36s4PfGME45In-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="735" as="sourcePoint" />
+            <mxPoint x="660" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqidpyO36s4PfGME45In-101" value="比赛报名信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-90">
+          <mxGeometry x="-0.4248" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqidpyO36s4PfGME45In-96" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="615" y="710" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gqidpyO36s4PfGME45In-97" value="" style="group" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-96">
+          <mxGeometry x="5" y="30" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gqidpyO36s4PfGME45In-98" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="gqidpyO36s4PfGME45In-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqidpyO36s4PfGME45In-99" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="gqidpyO36s4PfGME45In-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="10" as="sourcePoint" />
+            <mxPoint x="80" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqidpyO36s4PfGME45In-100" value="参赛记录DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gqidpyO36s4PfGME45In-96">
+          <mxGeometry width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
