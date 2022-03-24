@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T06:35:44.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="plbHTmQTMUQg9wfL4qtF" version="17.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T13:41:28.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="0-hAvbm_T9_nxTqtJY6d" version="17.1.5" type="github">
   <diagram id="GUy75SjR7ynqyHIWaE5n" name="第 1 页">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
         </mxCell>
         <mxCell id="q0_BRSECZEaf_4aycoRN-20" value="比赛为模拟比赛时，需要由比赛创建模块传入信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="q0_BRSECZEaf_4aycoRN-17" vertex="1" connectable="0">
           <mxGeometry x="0.6058" y="-6" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="14" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q0_BRSECZEaf_4aycoRN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="q0_BRSECZEaf_4aycoRN-21" target="q0_BRSECZEaf_4aycoRN-1" edge="1">
