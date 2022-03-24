@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T09:56:11.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="wjqLecY08BixjyGihekA" version="17.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T11:25:44.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ZXW6KJUrAmN04WgFqtdR" version="17.1.5" type="github">
   <diagram id="MLriW8BLmc0QxElRgxSS" name="第 1 页">
     <mxGraphModel dx="1102" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="9rHKrrYpXmioI8O5FU0--1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rHKrrYpXmioI8O5FU0--3" value="推荐题目" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="9rHKrrYpXmioI8O5FU0--1" edge="1" source="9rHKrrYpXmioI8O5FU0--5">
+        <mxCell id="9rHKrrYpXmioI8O5FU0--3" value="推荐题目" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9rHKrrYpXmioI8O5FU0--5" target="9rHKrrYpXmioI8O5FU0--1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="300" as="sourcePoint" />
             <mxPoint x="440" y="280" as="targetPoint" />
@@ -58,7 +58,7 @@
             <mxPoint x="80" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rHKrrYpXmioI8O5FU0--16" value="DB4. 账号信息DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9rHKrrYpXmioI8O5FU0--12" vertex="1">
+        <mxCell id="9rHKrrYpXmioI8O5FU0--16" value="DB4. 用户画像DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9rHKrrYpXmioI8O5FU0--12" vertex="1">
           <mxGeometry y="15" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9rHKrrYpXmioI8O5FU0--17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.672;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.157;exitY=1.063;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="9rHKrrYpXmioI8O5FU0--16" target="Iugr_Y0RbDXIsw1zZoV8-6" edge="1">
@@ -73,75 +73,61 @@
             <mxPoint x="320" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rHKrrYpXmioI8O5FU0--20" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="350" y="420" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9rHKrrYpXmioI8O5FU0--21" value="" style="group" parent="9rHKrrYpXmioI8O5FU0--20" vertex="1" connectable="0">
-          <mxGeometry x="7.5" width="80" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="9rHKrrYpXmioI8O5FU0--22" value="" style="endArrow=none;html=1;rounded=0;" parent="9rHKrrYpXmioI8O5FU0--21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint as="sourcePoint" />
-            <mxPoint x="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9rHKrrYpXmioI8O5FU0--23" value="" style="endArrow=none;html=1;rounded=0;" parent="9rHKrrYpXmioI8O5FU0--21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="10" as="sourcePoint" />
-            <mxPoint x="80" y="10" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9rHKrrYpXmioI8O5FU0--24" value="DB5. 题单信息DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9rHKrrYpXmioI8O5FU0--20" vertex="1">
-          <mxGeometry x="-7.5" y="20" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-1" value="&lt;span&gt;第三方算法网站&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-1" value="&lt;span&gt;第三方算法网站&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-2" value="推荐题目" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iugr_Y0RbDXIsw1zZoV8-1" target="9rHKrrYpXmioI8O5FU0--5">
+        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-2" value="推荐题目" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Iugr_Y0RbDXIsw1zZoV8-1" target="9rHKrrYpXmioI8O5FU0--5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="330" as="sourcePoint" />
             <mxPoint x="440" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rHKrrYpXmioI8O5FU0--5">
+        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-3" value="推荐题目" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9rHKrrYpXmioI8O5FU0--5" edge="1" target="lH1ZfUzUL2rF2iOXLkuW-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="330" as="sourcePoint" />
             <mxPoint x="400" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-6" value="2.7.2 弱点分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-6" value="2.7.2 弱点分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-7" value="2.7.3 提升推荐" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-7" value="2.7.3 提升推荐" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rHKrrYpXmioI8O5FU0--10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rHKrrYpXmioI8O5FU0--16" target="Iugr_Y0RbDXIsw1zZoV8-7">
+        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9rHKrrYpXmioI8O5FU0--16" target="Iugr_Y0RbDXIsw1zZoV8-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="110" as="sourcePoint" />
             <mxPoint x="440" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="90" as="sourcePoint" />
             <mxPoint x="450" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-12" value="提升空间" style="endArrow=classic;html=1;rounded=0;entryX=0.644;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iugr_Y0RbDXIsw1zZoV8-7" target="9rHKrrYpXmioI8O5FU0--5">
+        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-12" value="提升空间" style="endArrow=classic;html=1;rounded=0;entryX=0.644;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Iugr_Y0RbDXIsw1zZoV8-7" target="9rHKrrYpXmioI8O5FU0--5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="330" as="sourcePoint" />
             <mxPoint x="440" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-13" value="选手弱点" style="endArrow=classic;html=1;rounded=0;entryX=0.443;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iugr_Y0RbDXIsw1zZoV8-6" target="9rHKrrYpXmioI8O5FU0--5">
+        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-13" value="选手弱点" style="endArrow=classic;html=1;rounded=0;entryX=0.443;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Iugr_Y0RbDXIsw1zZoV8-6" target="9rHKrrYpXmioI8O5FU0--5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="330" as="sourcePoint" />
             <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lH1ZfUzUL2rF2iOXLkuW-1" value="题单创建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lH1ZfUzUL2rF2iOXLkuW-2" value="新比赛申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lH1ZfUzUL2rF2iOXLkuW-3" value="推荐题目" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="lH1ZfUzUL2rF2iOXLkuW-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="330" as="sourcePoint" />
+            <mxPoint x="327.5" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
