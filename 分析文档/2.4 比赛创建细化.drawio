@@ -1,30 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T08:56:42.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="c80pmIu8BEJ9Q761FB5H" version="17.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T10:49:40.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="bOm90CrhA1mK-7MNmoxT" version="17.2.1" type="github">
   <diagram id="zhTXeEs8bKl2B7jrvykE" name="第 1 页">
-    <mxGraphModel dx="903" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1384" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gqidpyO36s4PfGME45In-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="590" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-2" value="重现赛处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-2" value="重现赛处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1420" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-3" value="新比赛处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-3" value="新比赛处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1420" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-1" target="gqidpyO36s4PfGME45In-7">
+        <mxCell id="gqidpyO36s4PfGME45In-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gqidpyO36s4PfGME45In-1" target="gqidpyO36s4PfGME45In-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="650" as="sourcePoint" />
             <mxPoint x="1040" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-9" value="比赛创建申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-6">
+        <mxCell id="gqidpyO36s4PfGME45In-9" value="比赛创建申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-6" vertex="1" connectable="0">
           <mxGeometry x="-0.224" y="1" relative="1" as="geometry">
             <mxPoint x="11" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-7" target="gqidpyO36s4PfGME45In-2">
+        <mxCell id="gqidpyO36s4PfGME45In-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gqidpyO36s4PfGME45In-7" target="gqidpyO36s4PfGME45In-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1260" y="610" />
@@ -32,12 +32,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-11" value="创建正式比赛重现申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-10">
+        <mxCell id="gqidpyO36s4PfGME45In-11" value="创建正式比赛重现申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-10" vertex="1" connectable="0">
           <mxGeometry x="0.1945" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-7" target="gqidpyO36s4PfGME45In-3">
+        <mxCell id="gqidpyO36s4PfGME45In-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gqidpyO36s4PfGME45In-7" target="gqidpyO36s4PfGME45In-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1260" y="610" />
@@ -45,32 +45,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-13" value="创建新比赛、建立比赛题单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-12">
+        <mxCell id="gqidpyO36s4PfGME45In-13" value="创建新比赛、建立比赛题单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-12" vertex="1" connectable="0">
           <mxGeometry x="0.0843" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-7" value="申请响应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-7" value="申请响应" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="gqidpyO36s4PfGME45In-2">
+        <mxCell id="gqidpyO36s4PfGME45In-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="gqidpyO36s4PfGME45In-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1480" y="400" as="sourcePoint" />
             <mxPoint x="1370" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1590" y="340" as="sourcePoint" />
             <mxPoint x="1480" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-49" value="题目信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-24">
+        <mxCell id="gqidpyO36s4PfGME45In-49" value="题目信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-24" vertex="1" connectable="0">
           <mxGeometry x="-0.1791" y="2" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-3" target="gqidpyO36s4PfGME45In-28">
+        <mxCell id="gqidpyO36s4PfGME45In-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gqidpyO36s4PfGME45In-3" target="gqidpyO36s4PfGME45In-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1490" y="710" as="sourcePoint" />
             <mxPoint x="1580" y="880" as="targetPoint" />
@@ -79,15 +79,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-32" value="比赛信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-27">
+        <mxCell id="gqidpyO36s4PfGME45In-32" value="比赛信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-27" vertex="1" connectable="0">
           <mxGeometry x="0.4536" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-28" value="比赛模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-28" value="比赛模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-31" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-2">
+        <mxCell id="gqidpyO36s4PfGME45In-31" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gqidpyO36s4PfGME45In-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1320" y="780" as="sourcePoint" />
             <mxPoint x="1580" y="720" as="targetPoint" />
@@ -96,31 +96,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-36" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-36" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1550" y="300" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-18" value="" style="group" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-36">
+        <mxCell id="gqidpyO36s4PfGME45In-18" value="" style="group" parent="gqidpyO36s4PfGME45In-36" vertex="1" connectable="0">
           <mxGeometry y="30" width="80" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="gqidpyO36s4PfGME45In-18">
+        <mxCell id="gqidpyO36s4PfGME45In-19" value="" style="endArrow=none;html=1;rounded=0;" parent="gqidpyO36s4PfGME45In-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint as="sourcePoint" />
             <mxPoint x="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="gqidpyO36s4PfGME45In-18">
+        <mxCell id="gqidpyO36s4PfGME45In-20" value="" style="endArrow=none;html=1;rounded=0;" parent="gqidpyO36s4PfGME45In-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="10" as="sourcePoint" />
             <mxPoint x="80" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-26" value="题目DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gqidpyO36s4PfGME45In-36">
+        <mxCell id="gqidpyO36s4PfGME45In-26" value="题目DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gqidpyO36s4PfGME45In-36" vertex="1">
           <mxGeometry x="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-38" value="题单模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-38" value="题单模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-3" target="gqidpyO36s4PfGME45In-38">
+        <mxCell id="gqidpyO36s4PfGME45In-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="gqidpyO36s4PfGME45In-3" target="gqidpyO36s4PfGME45In-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1460" y="800" as="sourcePoint" />
             <mxPoint x="1370" y="730" as="targetPoint" />
@@ -130,12 +130,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-40" value="题单创建申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-39">
+        <mxCell id="gqidpyO36s4PfGME45In-40" value="题单创建申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-39" vertex="1" connectable="0">
           <mxGeometry x="-0.0281" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-38" target="gqidpyO36s4PfGME45In-3">
+        <mxCell id="gqidpyO36s4PfGME45In-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="gqidpyO36s4PfGME45In-38" target="gqidpyO36s4PfGME45In-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1320" y="780" as="sourcePoint" />
             <mxPoint x="1370" y="730" as="targetPoint" />
@@ -144,12 +144,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-42" value="题单信息返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-41">
+        <mxCell id="gqidpyO36s4PfGME45In-42" value="题单信息返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-41" vertex="1" connectable="0">
           <mxGeometry x="0.1437" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-3">
+        <mxCell id="gqidpyO36s4PfGME45In-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="gqidpyO36s4PfGME45In-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1320" y="580" as="sourcePoint" />
             <mxPoint x="1380" y="340" as="targetPoint" />
@@ -158,12 +158,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-45" value="比赛信息存储数据流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-43">
+        <mxCell id="gqidpyO36s4PfGME45In-45" value="比赛信息存储数据流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-43" vertex="1" connectable="0">
           <mxGeometry x="0.5449" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-44" value="" style="endArrow=none;html=1;rounded=0;entryX=0.33;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gqidpyO36s4PfGME45In-2">
+        <mxCell id="gqidpyO36s4PfGME45In-44" value="" style="endArrow=none;html=1;rounded=0;entryX=0.33;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="gqidpyO36s4PfGME45In-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1380" y="560" as="sourcePoint" />
             <mxPoint x="1370" y="530" as="targetPoint" />
@@ -172,39 +172,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-46" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1380" y="340" as="sourcePoint" />
             <mxPoint x="1480" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-48" value="历史比赛信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-46">
+        <mxCell id="gqidpyO36s4PfGME45In-48" value="历史比赛信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-46" vertex="1" connectable="0">
           <mxGeometry x="-0.4412" y="-3" relative="1" as="geometry">
             <mxPoint x="18" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-47" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-47" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1340" y="300" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-17" value="" style="group" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-47">
+        <mxCell id="gqidpyO36s4PfGME45In-17" value="" style="group" parent="gqidpyO36s4PfGME45In-47" vertex="1" connectable="0">
           <mxGeometry x="5" y="30" width="80" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="gqidpyO36s4PfGME45In-17">
+        <mxCell id="gqidpyO36s4PfGME45In-14" value="" style="endArrow=none;html=1;rounded=0;" parent="gqidpyO36s4PfGME45In-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint as="sourcePoint" />
             <mxPoint x="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="gqidpyO36s4PfGME45In-17">
+        <mxCell id="gqidpyO36s4PfGME45In-15" value="" style="endArrow=none;html=1;rounded=0;" parent="gqidpyO36s4PfGME45In-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="10" as="sourcePoint" />
             <mxPoint x="80" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-25" value="历史比赛DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gqidpyO36s4PfGME45In-47">
+        <mxCell id="gqidpyO36s4PfGME45In-25" value="历史比赛DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gqidpyO36s4PfGME45In-47" vertex="1">
           <mxGeometry width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-1" target="gqidpyO36s4PfGME45In-52">
+        <mxCell id="gqidpyO36s4PfGME45In-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gqidpyO36s4PfGME45In-1" target="gqidpyO36s4PfGME45In-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="560" as="sourcePoint" />
             <mxPoint x="1040" y="470" as="targetPoint" />
@@ -213,15 +213,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-53" value="比赛取消申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-51">
+        <mxCell id="gqidpyO36s4PfGME45In-53" value="比赛取消申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-51" vertex="1" connectable="0">
           <mxGeometry x="-0.1298" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-52" value="身份核验(只允许比赛创建者进行该操作)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-52" value="身份核验(只允许比赛创建者进行该操作)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-25" target="gqidpyO36s4PfGME45In-52">
+        <mxCell id="gqidpyO36s4PfGME45In-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="gqidpyO36s4PfGME45In-25" target="gqidpyO36s4PfGME45In-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1400" y="240" as="sourcePoint" />
             <mxPoint x="980" y="240" as="targetPoint" />
@@ -232,12 +232,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-56" value="比赛创建者信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-55">
+        <mxCell id="gqidpyO36s4PfGME45In-56" value="比赛创建者信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-55" vertex="1" connectable="0">
           <mxGeometry x="-0.0524" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-52">
+        <mxCell id="gqidpyO36s4PfGME45In-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gqidpyO36s4PfGME45In-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1210" y="380" as="sourcePoint" />
             <mxPoint x="1080" y="400" as="targetPoint" />
@@ -246,15 +246,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-63" value="验证通过信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-57">
+        <mxCell id="gqidpyO36s4PfGME45In-63" value="验证通过信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-57" vertex="1" connectable="0">
           <mxGeometry x="0.1191" y="3" relative="1" as="geometry">
             <mxPoint x="-32" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-58" value="比赛取消" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-58" value="比赛取消" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1080" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-58">
+        <mxCell id="gqidpyO36s4PfGME45In-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gqidpyO36s4PfGME45In-58" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1210" y="380" as="sourcePoint" />
             <mxPoint x="1350" y="340" as="targetPoint" />
@@ -264,12 +264,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-66" value="比赛状态更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-65">
+        <mxCell id="gqidpyO36s4PfGME45In-66" value="比赛状态更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-65" vertex="1" connectable="0">
           <mxGeometry x="-0.1499" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.655;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-58" target="gqidpyO36s4PfGME45In-28">
+        <mxCell id="gqidpyO36s4PfGME45In-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.655;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gqidpyO36s4PfGME45In-58" target="gqidpyO36s4PfGME45In-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1210" y="470" as="sourcePoint" />
             <mxPoint x="1600" y="1000" as="targetPoint" />
@@ -281,12 +281,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-68" value="比赛取消通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-67">
+        <mxCell id="gqidpyO36s4PfGME45In-68" value="比赛取消通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-67" vertex="1" connectable="0">
           <mxGeometry x="0.5156" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-1" target="gqidpyO36s4PfGME45In-52">
+        <mxCell id="gqidpyO36s4PfGME45In-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gqidpyO36s4PfGME45In-1" target="gqidpyO36s4PfGME45In-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="580" as="sourcePoint" />
             <mxPoint x="840" y="280" as="targetPoint" />
@@ -296,12 +296,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-72" value="比赛修改申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-71">
+        <mxCell id="gqidpyO36s4PfGME45In-72" value="比赛修改申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-71" vertex="1" connectable="0">
           <mxGeometry x="0.18" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-52">
+        <mxCell id="gqidpyO36s4PfGME45In-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gqidpyO36s4PfGME45In-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="980" y="490" as="sourcePoint" />
             <mxPoint x="1030" y="930" as="targetPoint" />
@@ -312,18 +312,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-74" target="gqidpyO36s4PfGME45In-38">
+        <mxCell id="gqidpyO36s4PfGME45In-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gqidpyO36s4PfGME45In-74" target="gqidpyO36s4PfGME45In-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-81" value="题单修改请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-80">
+        <mxCell id="gqidpyO36s4PfGME45In-81" value="题单修改请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-80" vertex="1" connectable="0">
           <mxGeometry x="0.2077" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-74" value="比赛信息修改（题目修改，时间修改等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-74" value="比赛信息修改（题目修改，时间修改等）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-1" target="gqidpyO36s4PfGME45In-74">
+        <mxCell id="gqidpyO36s4PfGME45In-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gqidpyO36s4PfGME45In-1" target="gqidpyO36s4PfGME45In-74" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1150" y="740" as="sourcePoint" />
             <mxPoint x="905" y="1030" as="targetPoint" />
@@ -332,12 +332,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-77" value="比赛修改信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-75">
+        <mxCell id="gqidpyO36s4PfGME45In-77" value="比赛修改信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-75" vertex="1" connectable="0">
           <mxGeometry x="-0.5376" y="2" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-74" target="gqidpyO36s4PfGME45In-28">
+        <mxCell id="gqidpyO36s4PfGME45In-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="gqidpyO36s4PfGME45In-74" target="gqidpyO36s4PfGME45In-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1100" y="1070" as="sourcePoint" />
             <mxPoint x="1600" y="1050" as="targetPoint" />
@@ -347,26 +347,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-83" value="比赛修改通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-82">
+        <mxCell id="gqidpyO36s4PfGME45In-83" value="比赛修改通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-82" vertex="1" connectable="0">
           <mxGeometry x="-0.0978" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-84" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-84" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="870" y="610" as="sourcePoint" />
             <mxPoint x="720" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-87" value="比赛报名申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-84">
+        <mxCell id="gqidpyO36s4PfGME45In-87" value="比赛报名申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-84" vertex="1" connectable="0">
           <mxGeometry x="0.1635" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-85" value="比赛报名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-85" value="比赛报名" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-88" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gqidpyO36s4PfGME45In-85">
+        <mxCell id="gqidpyO36s4PfGME45In-88" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="gqidpyO36s4PfGME45In-85" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="240" as="sourcePoint" />
             <mxPoint x="570" y="660" as="targetPoint" />
@@ -376,41 +376,41 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-89" value="比赛信息（比赛序号，时间等）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-88">
+        <mxCell id="gqidpyO36s4PfGME45In-89" value="比赛信息（比赛序号，时间等）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-88" vertex="1" connectable="0">
           <mxGeometry x="0.6593" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqidpyO36s4PfGME45In-85">
+        <mxCell id="gqidpyO36s4PfGME45In-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gqidpyO36s4PfGME45In-85" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="735" as="sourcePoint" />
             <mxPoint x="660" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-101" value="比赛报名信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-90">
+        <mxCell id="gqidpyO36s4PfGME45In-101" value="比赛报名信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gqidpyO36s4PfGME45In-90" vertex="1" connectable="0">
           <mxGeometry x="-0.4248" y="-3" relative="1" as="geometry">
             <mxPoint x="3" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-96" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="gqidpyO36s4PfGME45In-96" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="615" y="710" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-97" value="" style="group" vertex="1" connectable="0" parent="gqidpyO36s4PfGME45In-96">
+        <mxCell id="gqidpyO36s4PfGME45In-97" value="" style="group" parent="gqidpyO36s4PfGME45In-96" vertex="1" connectable="0">
           <mxGeometry x="5" y="30" width="80" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-98" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="gqidpyO36s4PfGME45In-97">
+        <mxCell id="gqidpyO36s4PfGME45In-98" value="" style="endArrow=none;html=1;rounded=0;" parent="gqidpyO36s4PfGME45In-97" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint as="sourcePoint" />
             <mxPoint x="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-99" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="gqidpyO36s4PfGME45In-97">
+        <mxCell id="gqidpyO36s4PfGME45In-99" value="" style="endArrow=none;html=1;rounded=0;" parent="gqidpyO36s4PfGME45In-97" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="10" as="sourcePoint" />
             <mxPoint x="80" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqidpyO36s4PfGME45In-100" value="参赛记录DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gqidpyO36s4PfGME45In-96">
+        <mxCell id="gqidpyO36s4PfGME45In-100" value="参赛记录DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gqidpyO36s4PfGME45In-96" vertex="1">
           <mxGeometry width="90" height="30" as="geometry" />
         </mxCell>
       </root>
