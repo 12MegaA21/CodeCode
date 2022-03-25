@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T11:25:59.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="pqZ6XXY9l_C7qVaPl9kp" version="17.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T12:43:31.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="UdRlwb4OR0ZZMQ7j02_w" version="17.2.2" type="github">
   <diagram id="MLriW8BLmc0QxElRgxSS" name="第 1 页">
     <mxGraphModel dx="1102" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,12 +67,6 @@
             <mxPoint x="440" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rHKrrYpXmioI8O5FU0--19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.526;exitY=1;exitDx=0;exitDy=0;entryX=0.408;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="9rHKrrYpXmioI8O5FU0--10" target="Iugr_Y0RbDXIsw1zZoV8-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="290" as="sourcePoint" />
-            <mxPoint x="320" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Iugr_Y0RbDXIsw1zZoV8-1" value="&lt;span&gt;第三方算法网站&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -82,7 +76,7 @@
             <mxPoint x="440" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-3" value="推荐题目" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9rHKrrYpXmioI8O5FU0--5" edge="1" target="lH1ZfUzUL2rF2iOXLkuW-1">
+        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-3" value="推荐题目" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9rHKrrYpXmioI8O5FU0--5" target="lH1ZfUzUL2rF2iOXLkuW-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="330" as="sourcePoint" />
             <mxPoint x="400" y="420" as="targetPoint" />
@@ -93,12 +87,6 @@
         </mxCell>
         <mxCell id="Iugr_Y0RbDXIsw1zZoV8-7" value="2.7.3 提升推荐" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Iugr_Y0RbDXIsw1zZoV8-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9rHKrrYpXmioI8O5FU0--16" target="Iugr_Y0RbDXIsw1zZoV8-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="110" as="sourcePoint" />
-            <mxPoint x="440" y="280" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Iugr_Y0RbDXIsw1zZoV8-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -118,16 +106,28 @@
             <mxPoint x="440" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lH1ZfUzUL2rF2iOXLkuW-1" value="题单创建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lH1ZfUzUL2rF2iOXLkuW-1" value="题单创建" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="257.5" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lH1ZfUzUL2rF2iOXLkuW-2" value="新比赛申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lH1ZfUzUL2rF2iOXLkuW-2" value="新比赛申请" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lH1ZfUzUL2rF2iOXLkuW-3" value="推荐题目" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="lH1ZfUzUL2rF2iOXLkuW-2">
+        <mxCell id="lH1ZfUzUL2rF2iOXLkuW-3" value="推荐题目" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="lH1ZfUzUL2rF2iOXLkuW-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="330" as="sourcePoint" />
             <mxPoint x="327.5" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnUJIPKvEf66Pq77mLaR-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.422;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472" y="90" as="sourcePoint" />
+            <mxPoint x="471.6400000000001" y="151.26" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnUJIPKvEf66Pq77mLaR-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.422;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="329.86" y="88.74" as="sourcePoint" />
+            <mxPoint x="329.5000000000001" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
